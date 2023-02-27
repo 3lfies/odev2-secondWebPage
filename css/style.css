@@ -1,0 +1,27 @@
+*{
+    font-family: sans-serif;
+    margin-left: 10px;
+}
+body{
+    background-color: #effbff;
+}
+
+img{
+    width: 300px;
+    display: block;
+    margin-left: 25px;
+}
+
+img:hover{
+    border-radius: 10%;
+    transform: scale(0.9);
+    transition: 1s; 
+}
+
+a{
+    text-decoration: none;
+    font-size: 19px;
+    background-color: #0084ff49;
+    color: #242424;
+    margin-left: 25px;
+}
